@@ -1,6 +1,6 @@
 # shangcheng
 
-> A Vue.js project
+> A Vue.js project（基于vue2.0 + v-cli + vue-router + axios + mint-ui）
 
 ## Build Setup
 
